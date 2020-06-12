@@ -2319,7 +2319,7 @@ blockquote::before {
 /* - 12. Loader 
 =============================================================================*/
 #loading{
-	background: #F4F7FF;
+	background: #FDF2FF;
 	height: 100%;
 	width: 100%;
 	position: fixed;
@@ -2351,7 +2351,7 @@ blockquote::before {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #0054ee;
+    background-color: #AF00EE;
     opacity: 0.6;
     position: absolute;
     top: 0;
