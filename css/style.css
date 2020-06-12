@@ -276,7 +276,7 @@ label {
 }
 .header-icon .btn {
 	background: #fff;
-	color: #5d58f7;
+	color: #801dad;
 	padding: 17px 45px;
 	margin-left: 35px;
 	border-color: #fff;
@@ -377,7 +377,7 @@ label {
 }
 .main-menu ul li .sub-menu li a {
     padding: 5px;
-    color: #5d58f7;
+    color: #801dad;
     font-size: 14px;
     font-weight: 400;
     position: relative;
@@ -391,7 +391,7 @@ label {
     transform: translateY(-50%);
     height: 2px;
     width: 10px;
-    background: #5d58f7;
+    background: #801dad;
     z-index: 99;
     border-radius: unset;
     opacity: 0;
