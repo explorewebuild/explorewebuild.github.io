@@ -183,7 +183,7 @@ label {
 .btn {
 	-moz-user-select: none;
 	background: transparent;
-	border: 1px solid #5d58f7;
+	border: 1px solid #801dad;
 	border-radius: 5px;
 	color: #fff;
 	display: inline-block;
@@ -203,7 +203,7 @@ label {
 }
 .btn:hover {
 	border: 1px solid #5d58f7;
-	background: #5d58f7;
+	background: #801dad;
 	color: #fff;
 }
 .btn:focus {
