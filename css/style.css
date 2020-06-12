@@ -341,17 +341,17 @@ label {
 	border-bottom: 1px solid #fff3;
 }
 .third-header .sticky-menu {
-	background: -webkit-linear-gradient(to right, #0A196C, #0870D3);
-	background: linear-gradient(to right, #0A196C, #0870D3);
+	background: -webkit-linear-gradient(to right, #ad21db, #e533f5);
+	background: linear-gradient(to right, #ad21db, #e533f5);
 }
 .third-mobile-menu.mean-container .mean-nav {
-	background: linear-gradient(to left, #086dd0, #0a1b6e);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 }
 .first-mobile-menu.mean-container .mean-nav {
-	background: linear-gradient(to right, #733EF9, #9166F5);
+	background: linear-gradient(to right, #ad21db, #e533f5);
 }
 .second-mobile-menu.mean-container .mean-nav {
-	background: linear-gradient(to left, #48a7f3, #2039dc);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 }
 .main-menu ul li .sub-menu {
     position: absolute;
