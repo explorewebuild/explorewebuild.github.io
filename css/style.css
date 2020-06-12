@@ -214,7 +214,7 @@ label {
 }
 /* scrollUp */
 #scrollUp {
-	background: #0054ee;
+	background: #6a006e;
 	height: 45px;
 	width: 45px;
 	right: 50px;
@@ -298,13 +298,13 @@ label {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
 	background: -webkit-linear-gradient(to right, #2039dc, #48a7f3);
-	background: linear-gradient(to left, #48a7f3, #2039dc);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 	padding: 0;
 	border: none;
 }
 .sticky-menu.header-padding {
 	background: -webkit-linear-gradient(to left, #48a7f3, #2039dc);
-	background: linear-gradient(to left, #48a7f3, #2039dc);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 }
 .header-padding {
 	padding-left: 45px;
@@ -1130,18 +1130,18 @@ label {
 }
 /* cta */
 .cta-bg {
-	background: linear-gradient( 90deg, rgb(42,202,255) 0%, rgb(9,154,202) 100%);
+	background: linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
 }
 .s-cta-bg-p {
 	/*
 	background: linear-gradient( 0deg, rgb(31,53,219) 0%, rgb(72,167,243) 100%);
 	*/
-	background-image: -moz-linear-gradient( 0deg, rgb(106,59,240) 0%, rgb(152,118,250) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(106,59,240) 0%, rgb(152,118,250) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(106,59,240) 0%, rgb(152,118,250) 100%);
+	background-image: -moz-linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
+	background-image: -webkit-linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
+	background-image: -ms-linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
 }
 .s-cta-bg {
-	background: linear-gradient( 0deg, rgb(31,53,219) 0%, rgb(72,167,243) 100%);
+	background: linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
 }
 .cta-title h2 {
 	font-size: 40px;
@@ -2286,11 +2286,11 @@ blockquote::before {
 	border: 1px solid #4562e4;
 }
 .copyright-area {
-	border-top: 1px solid #222a76;
+	border-top: 0px solid #222a76;
 	padding: 12px 0;
 }
 .second-copyright {
-	border-top: 1px solid #4258e1;
+	border-top: 0px solid #4258e1;
 }
 .copyright-text p {
 	font-size: 15px;
