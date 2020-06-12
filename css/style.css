@@ -606,7 +606,7 @@ label {
 	color: #fff;
 }
 .section-title > span {
-	color: #5d58f7;
+	color: #801dad;
 	font-size: 18px;
 	display: block;
 	font-family: 'Muli', sans-serif;
@@ -616,7 +616,7 @@ label {
 }
 .section-title h2> span{
 	font-weight: 400;
-	color: #5d58f7;
+	color: #801dad;
 }
 .section-title p {
 	margin-bottom: 0;
@@ -1359,7 +1359,7 @@ label {
 }
 /* team */
 .title-btn .btn {
-	background: #5d58f7;
+	background: #801dad;
 }
 .team-info h5 {
 	font-size: 18px;
