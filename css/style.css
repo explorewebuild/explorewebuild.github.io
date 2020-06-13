@@ -2185,11 +2185,11 @@ blockquote::before {
 	color: #8d8d8d;
 }
 .c-btn {
-	background: #5d58f7;
+	background: #801dad;
 }
 .c-btn:hover {
 	background: transparent;
-	color: #5d58f7;
+	color: #801dad;
 }
 .map-wrap {
 	width: 100%;
@@ -2240,7 +2240,7 @@ blockquote::before {
 .footer-social a:hover {
 	background: #fff;
 	border-color: #fff;
-	color: #5d58f7;
+	color: #801dad;
 }
 .f-widget-title h5 {
 	color: #fff;
@@ -2275,7 +2275,7 @@ blockquote::before {
 }
 .footer-download ul li a {
 	display: block;
-	border: 1px solid #444ca7;
+	border: 1px solid #733f9e;
 	height: 35px;
 	width: 120px;
 	text-align: center;
@@ -2283,14 +2283,14 @@ blockquote::before {
 	border-radius: 5px;
 }
 .second-footer-d ul li a {
-	border: 1px solid #4562e4;
+	border: 1px solid #9b48e8;
 }
 .copyright-area {
-	border-top: 0px solid #222a76;
+	border-top: 0px solid #541f73;
 	padding: 12px 0;
 }
 .second-copyright {
-	border-top: 0px solid #4258e1;
+	border-top: 0px solid #801dad;
 }
 .copyright-text p {
 	font-size: 15px;
