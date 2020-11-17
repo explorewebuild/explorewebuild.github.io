@@ -122,7 +122,7 @@ p {
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 26px;
-	color: #677294;
+	color: #7e6a8a;
 	margin-bottom: 15px;
 }
 hr {
@@ -183,7 +183,7 @@ label {
 .btn {
 	-moz-user-select: none;
 	background: transparent;
-	border: 1px solid #5d58f7;
+	border: 1px solid #801dad;
 	border-radius: 5px;
 	color: #fff;
 	display: inline-block;
@@ -202,8 +202,8 @@ label {
 	font-family: 'Muli', sans-serif;
 }
 .btn:hover {
-	border: 1px solid #5d58f7;
-	background: #5d58f7;
+	border: 1px solid #801dad;
+	background: #801dad;
 	color: #fff;
 }
 .btn:focus {
@@ -214,7 +214,7 @@ label {
 }
 /* scrollUp */
 #scrollUp {
-	background: #0054ee;
+	background: #6a006e;
 	height: 45px;
 	width: 45px;
 	right: 50px;
@@ -276,7 +276,7 @@ label {
 }
 .header-icon .btn {
 	background: #fff;
-	color: #5d58f7;
+	color: #801dad;
 	padding: 17px 45px;
 	margin-left: 35px;
 	border-color: #fff;
@@ -297,14 +297,14 @@ label {
 	-webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
-	background: -webkit-linear-gradient(to right, #2039dc, #48a7f3);
-	background: linear-gradient(to left, #48a7f3, #2039dc);
+	background: -webkit-linear-gradient(to right, #ad21db, #e533f5);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 	padding: 0;
 	border: none;
 }
 .sticky-menu.header-padding {
 	background: -webkit-linear-gradient(to left, #48a7f3, #2039dc);
-	background: linear-gradient(to left, #48a7f3, #2039dc);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 }
 .header-padding {
 	padding-left: 45px;
@@ -317,11 +317,11 @@ label {
 	font-size: 16px;
 	padding: 17px 18px;
 	font-family: 'Lato', sans-serif;
-	color: #03fef5;
+	color: #fe03e5;
 	background: #3463d6;
 	box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.2);
 	font-weight: 400;
-	border-color: #3463d6;
+	border-color: #9b33d4;
 }
 .header-cta ul li {
 	display: inline-block;
@@ -341,17 +341,17 @@ label {
 	border-bottom: 1px solid #fff3;
 }
 .third-header .sticky-menu {
-	background: -webkit-linear-gradient(to right, #0A196C, #0870D3);
-	background: linear-gradient(to right, #0A196C, #0870D3);
+	background: -webkit-linear-gradient(to right, #ad21db, #e533f5);
+	background: linear-gradient(to right, #ad21db, #e533f5);
 }
 .third-mobile-menu.mean-container .mean-nav {
-	background: linear-gradient(to left, #086dd0, #0a1b6e);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 }
 .first-mobile-menu.mean-container .mean-nav {
-	background: linear-gradient(to right, #733EF9, #9166F5);
+	background: linear-gradient(to right, #ad21db, #e533f5);
 }
 .second-mobile-menu.mean-container .mean-nav {
-	background: linear-gradient(to left, #48a7f3, #2039dc);
+	background: linear-gradient(to left, #d046f2, #9e1ed9);
 }
 .main-menu ul li .sub-menu {
     position: absolute;
@@ -377,7 +377,7 @@ label {
 }
 .main-menu ul li .sub-menu li a {
     padding: 5px;
-    color: #5d58f7;
+    color: #801dad;
     font-size: 14px;
     font-weight: 400;
     position: relative;
@@ -391,7 +391,7 @@ label {
     transform: translateY(-50%);
     height: 2px;
     width: 10px;
-    background: #5d58f7;
+    background: #801dad;
     z-index: 99;
     border-radius: unset;
     opacity: 0;
@@ -558,7 +558,7 @@ label {
 }
 .slider-btn .btn:hover {
 	border-color: #fff;
-	color: #5d58f7;
+	color: #801dad;
 	background: #fff;
 }
 .slider-img {
@@ -606,7 +606,7 @@ label {
 	color: #fff;
 }
 .section-title > span {
-	color: #5d58f7;
+	color: #801dad;
 	font-size: 18px;
 	display: block;
 	font-family: 'Muli', sans-serif;
@@ -616,7 +616,7 @@ label {
 }
 .section-title h2> span{
 	font-weight: 400;
-	color: #5d58f7;
+	color: #801dad;
 }
 .section-title p {
 	margin-bottom: 0;
@@ -1130,18 +1130,18 @@ label {
 }
 /* cta */
 .cta-bg {
-	background: linear-gradient( 90deg, rgb(42,202,255) 0%, rgb(9,154,202) 100%);
+	background: linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
 }
 .s-cta-bg-p {
 	/*
 	background: linear-gradient( 0deg, rgb(31,53,219) 0%, rgb(72,167,243) 100%);
 	*/
-	background-image: -moz-linear-gradient( 0deg, rgb(106,59,240) 0%, rgb(152,118,250) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(106,59,240) 0%, rgb(152,118,250) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(106,59,240) 0%, rgb(152,118,250) 100%);
+	background-image: -moz-linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
+	background-image: -webkit-linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
+	background-image: -ms-linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
 }
 .s-cta-bg {
-	background: linear-gradient( 0deg, rgb(31,53,219) 0%, rgb(72,167,243) 100%);
+	background: linear-gradient( 0deg, #d046f2 0%, #9e1ed9 100%);
 }
 .cta-title h2 {
 	font-size: 40px;
@@ -1359,7 +1359,7 @@ label {
 }
 /* team */
 .title-btn .btn {
-	background: #5d58f7;
+	background: #801dad;
 }
 .team-info h5 {
 	font-size: 18px;
@@ -1667,7 +1667,7 @@ label {
 	font-size: 18px;
 }
 .faq-form .btn {
-	background: #5d58f7;
+	background: #801dad;
 }
 .faq-call {
 	float: right;
@@ -2185,11 +2185,11 @@ blockquote::before {
 	color: #8d8d8d;
 }
 .c-btn {
-	background: #5d58f7;
+	background: #801dad;
 }
 .c-btn:hover {
 	background: transparent;
-	color: #5d58f7;
+	color: #801dad;
 }
 .map-wrap {
 	width: 100%;
@@ -2240,7 +2240,7 @@ blockquote::before {
 .footer-social a:hover {
 	background: #fff;
 	border-color: #fff;
-	color: #5d58f7;
+	color: #801dad;
 }
 .f-widget-title h5 {
 	color: #fff;
@@ -2275,7 +2275,7 @@ blockquote::before {
 }
 .footer-download ul li a {
 	display: block;
-	border: 1px solid #444ca7;
+	border: 1px solid #733f9e;
 	height: 35px;
 	width: 120px;
 	text-align: center;
@@ -2283,14 +2283,14 @@ blockquote::before {
 	border-radius: 5px;
 }
 .second-footer-d ul li a {
-	border: 1px solid #4562e4;
+	border: 1px solid #9b48e8;
 }
 .copyright-area {
-	border-top: 1px solid #222a76;
+	border-top: 0px solid #541f73;
 	padding: 12px 0;
 }
 .second-copyright {
-	border-top: 1px solid #4258e1;
+	border-top: 0px solid #801dad;
 }
 .copyright-text p {
 	font-size: 15px;
@@ -2319,7 +2319,7 @@ blockquote::before {
 /* - 12. Loader 
 =============================================================================*/
 #loading{
-	background: #F4F7FF;
+	background: #FDF2FF;
 	height: 100%;
 	width: 100%;
 	position: fixed;
@@ -2351,7 +2351,7 @@ blockquote::before {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #0054ee;
+    background-color: #AF00EE;
     opacity: 0.6;
     position: absolute;
     top: 0;
